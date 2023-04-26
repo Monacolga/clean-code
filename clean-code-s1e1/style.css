@@ -73,7 +73,7 @@ button {
 }
 
 /* Heading */
-.list-title {
+.list__title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -101,7 +101,7 @@ input[type="text"]:focus {
 }
 
 /* New Task */
-.list-title_new {
+.list__title_new {
   display: block;
   margin: 0 0 20px;
 }
@@ -111,7 +111,7 @@ input[type="text"]:focus {
 }
 
 /* Task list */
-.list-item {
+.list__item {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
